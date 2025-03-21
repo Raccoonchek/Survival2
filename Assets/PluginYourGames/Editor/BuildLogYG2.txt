@@ -1,3 +1,0 @@
-Build path: F:/ArchiveGame/TestRob/RobBild
-Build number: 15
-PluginYG version: 2.002
